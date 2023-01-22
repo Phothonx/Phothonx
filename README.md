@@ -12,7 +12,7 @@ I do stuff.
 
 
 ## 🔔 Contact
-<a href="https://discordapp.com/users/454929922108948480" target="_blank" rel="noreferrer"> ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) <a><a href="" target="_blank" rel="noreferrer">  ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) <a>
+<a href="https://discordapp.com/users/454929922108948480" target="_blank" rel="noreferrer"> ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) <a>
 
 
 ## 🔨 Projects
