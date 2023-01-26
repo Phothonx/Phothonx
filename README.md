@@ -1,4 +1,4 @@
-<h2 align="center">Hey, I'm Phothonx !</h2>
+<h1 align="center">Hey, I'm Phothonx !</h1>
  
 <p align="center"> Hi, i'm Phothonx, a begginer developper passionate about cyber security and open source </p>
 
