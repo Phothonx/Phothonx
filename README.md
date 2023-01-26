@@ -1,42 +1,35 @@
+<h2 align="center">Hey, I'm Phothonx !</h2>
+ 
+<p align="center"> Hi, i'm Phothonx, a begginer developper passionate about cyber security and open source </p>
+
+<hr>
+
+
 <p align="center">
-  <img src="https://github.com/Phothonx/Phothonx/blob/main/images/banner.png">
+<a href="https://discordapp.com/users/454929922108948480">Discord</a> • 
+<a href="">Twitter</a> • 
+<a href="">Mail</a>
 </p>
 
-<h3 align="center"> 
-Hi, I'm Phothonx ! 
-</h3>
+- ✒ Working on a dicord bot named **MeglingBot**
+- 📖 Currently learning **python**
 
+<hr>
 
-## About me
-I do stuff.
+<div align="center">
+<h3> 📚 knowledge </h3>
 
-
-## 🔔 Contact
-<a href="https://discordapp.com/users/454929922108948480" target="_blank" rel="noreferrer"> ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) <a>
-
-
-## 🔨 Projects
-- not yet..
-
-
-## 📖 Learning
-- Python
-- discord.py
-- github
-
-
-<h2 align="center"> 
-
-📚 Skills
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-</h2>
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+</div>
 
 
-<h2 align="center"> 
-
-📊 Stats
-
-
-</h2>
+<hr>
+<details>
+  <summary>📊 Stats</summary>
+nothing... lol
+</details>
